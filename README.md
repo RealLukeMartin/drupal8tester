@@ -1,4 +1,4 @@
-*This is a copy of drupal 8. Primarily for use in Drupal Provisoning and Hosting Platforms.*
+*This is a copy of drupal 8. Using for testing Hosting Platforms.*
 
 
 CONTENTS OF THIS FILE
